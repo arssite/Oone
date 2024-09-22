@@ -2,8 +2,7 @@
 
 Welcome to **0one** – a binary bit game where computation and strategy combine! The game involves 0s and 1s, and your goal is to outwit the ARS Bot to make the majority results 1. 
 
-## ![Game Image](https://example.com/path-to-image.jpg)  <!-- Replace with actual image link -->
-
+## ![Game Image](3x3guidelines.gif)  
 ### Game Rules
 
 1. **Turn Sequence**: You and the ARS Bot take turns alternatively.
