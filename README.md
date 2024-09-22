@@ -31,7 +31,7 @@ Welcome to **0one** – a binary bit game where computation and strategy combine
 
 ### Live Game Link
 
-- [Play 0one]((https://oonearssite.netlify.app/)) <!-- Replace with actual live link -->
+- [Play 0one](https://oonearssite.netlify.app/) <!-- Replace with actual live link -->
 
 ### Repository
 
