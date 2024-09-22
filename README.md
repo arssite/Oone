@@ -32,14 +32,14 @@ Welcome to **0one** – a binary bit game where computation and strategy combine
 
 ### Live Game Link
 
-- [Play 0one](https://example.com/live-game-link) <!-- Replace with actual live link -->
+- [Play 0one]((https://oonearssite.netlify.app/)) <!-- Replace with actual live link -->
 
 ### Repository
 
-- [GitHub Repository](https://github.com/your-username/0one) <!-- Replace with actual GitHub repository link -->
+- [GitHub Repository](https://github.com/arssite/Oone) <!-- Replace with actual GitHub repository link -->
 
 ### Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile) <!-- Replace with actual LinkedIn profile link -->
-- [GitHub](https://github.com/your-username) <!-- Replace with actual GitHub profile link -->
+- [LinkedIn](https://www.linkedin.com/in/anmol-r-srivastava/) <!-- Replace with actual LinkedIn profile link -->
+- [GitHub](https://github.com/arssite) <!-- Replace with actual GitHub profile link -->
 
